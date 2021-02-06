@@ -15,6 +15,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Unit Testing](#unit-testing)
 - [Integration-Testing](#integration-testing)
 - [End-To-End Testing](#end-to-end-testing)
+- [Load-Testing](#loadtesting)
 - [Mocking](#end-to-end-testing)
     - [Moq](#moq)
 - [Xunit](#xunit)   
@@ -43,6 +44,14 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
+## Load Testing
+
+### 📝 Articles
+- [Munich .NET Meetup: Massive load testing with NBomber cluster](https://www.youtube.com/watch?v=U2j7NmXZrOc)
+
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
 ## Mocking
 
 ### 📝 Articles
