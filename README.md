@@ -22,6 +22,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Unit Testing
 
+### 📹 Videoes
+- [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) - Raw Coding
+- [C# Unit Testing Tutorial](https://www.youtube.com/watch?v=e9q-ocrt4UI) - Raw Coding
+
 ### 📝 Articles 
 
 <div align="right">
@@ -47,7 +51,18 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Load Testing
 
 ### 📝 Articles
+
+### 📹 Videoes
 - [Munich .NET Meetup: Massive load testing with NBomber cluster](https://www.youtube.com/watch?v=U2j7NmXZrOc)
+- [ASP.NET Core Series: Performance Testing Techniques](https://www.youtube.com/watch?v=jn54CjePzs0)
+
+### 📦 Libraries
+
+- [bombardier](https://github.com/codesenberg/bombardier)
+> Fast cross-platform HTTP benchmarking tool written in Go
+
+- [Investigate performance counters (dotnet-counters)](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/dotnet-counters)
+> .NET Core Performance Counter Tool
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
